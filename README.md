@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **HTML, CSS ,JS**
 
-- 💬 Ask me about **HTML, CSS ,JS **
+- 💬 Ask me about **HTML, CSS ,JS**
 
 - 📫 How to reach me **svshashank16@gmail.com**
 
