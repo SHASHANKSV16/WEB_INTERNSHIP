@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chetanshetty21&label=Profile%20views&color=0e75b6&style=flat" alt="SHASAHNK" /> </p>
 
-- 🌱 I’m currently learning **HTML, CSS ,JS **
+- 🌱 I’m currently learning **HTML, CSS ,JS**
 
 - 💬 Ask me about **HTML, CSS ,JS **
 
