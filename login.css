@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  
+}
+
+body{
+    background:url(https://i.pinimg.com/564x/d2/a0/f6/d2a0f633ab12f00ca0ba983f136bd3e1.jpg);
+    font-family: 'Nova Square', sans-serif;
+    background-repeat: no-repeat;
+    background-size: cover;
+min-height: 100vh;
+}
+form{
+    border-radius: 20px;
+    /* margin-top: 25px !important; */
+    width: 24% !important;
+    background-color: transparent !important;
+    padding: 50px;
+}
+form label,h4{
+    color: orangered;
+}
+.navbar{
+    background: black;
+}
+
+.btn-primary{
+    width: 100%;
+    border: none;
+    border-radius: 50px;
+    background: orangered;
+    
+}
+
+.form-control{
+    color: rgba(0,0,0,.87);
+    border-bottom-color: rgba(0,0,0,.42);
+    box-shadow: none !important;
+    border: none;
+    border-bottom: 1px solid;
+    border-radius: 4px 4px 0 0;
+    }
+ h4{
+    font-size: 2rem !important;
+    font-weight: 700;
+ }  
+ .form-label{
+    font-weight: 800 !important;
+ }
+@media only screen and (max-width: 600px) {
+    form {
+        width: 100% !important;
+    }
+  }

@@ -1,0 +1,55 @@
+.body{
+    background: url(https://i.pinimg.com/564x/85/38/d0/8538d0c0cc4ef43eaaccfca3060ad2db.jpg);
+    background-repeat:no-repeat;
+    background-size: cover ;
+}
+
+
+
+.card{
+    width: 90%;
+    max-width: 470px;
+    background: transparent;
+    color:#fff;
+    margin: 10px auto 0;
+    border-radius: 20px;
+    padding: 40px 35px;
+    text-align:center;
+    /* opacity: 50%; */
+    backdrop-filter: blur(5px);
+    border: 2px solid rgba(255,255,255,.2);
+    outline: none;
+    
+}
+.icon{
+    width: 170px;
+   
+}
+.weather h1 {
+    font-size: 45px;
+    font-weight: 400;
+    margin-top: -10px;
+
+}
+.details{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 20px;
+    margin-top: 50px;
+}
+.col{
+    display: flex;
+    align-items: center;
+    text-align: left;
+}
+.col img {
+    margin-right: 10px;
+    width: 40px;
+}
+.humidity1, .wind1{
+    font-size: 28px;
+    margin-top: -6px;
+
+}
+
